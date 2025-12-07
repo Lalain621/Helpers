@@ -84,7 +84,7 @@
             },
             {
                 "id": 12,
-                "name": "Emplacement pour cellule,
+                "name": "Emplacement pour cellule",
                 "cost": 100000,
                 "duration": 7
             },
@@ -247,21 +247,6 @@
                 "name": "Kardiochirurgie",
                 "cost": 70000,
                 "duration": 7
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "name": "Rettungshubschrauber-Station",
-        "class": [],
-        "class_alias": [],
-        "max_level": null,
-        "extensions": [
-            {
-                "id": 0,
-                "name": "Windenrettung",
-                "cost": 200000,
-                "duration": 3
             }
         ]
     },
@@ -984,7 +969,7 @@
         "extensions": [
             {
                 "id": 0,
-                "name": "Extension équipement inondation,
+                "name": "Extension équipement inondation",
                 "cost": 50000,
                 "duration": 5
             },
@@ -996,7 +981,7 @@
             },
             {
                 "id": 2,
-                "name": "FORMISC - Les Formations Militaires de la Sécurité Civile,
+                "name": "FORMISC - Les Formations Militaires de la Sécurité Civile",
                 "cost": 350000,
                 "duration": 5
             },
