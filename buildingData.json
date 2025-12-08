@@ -486,19 +486,19 @@
                 "cost": 1000000,
                 "duration": 7
             },
-              {
+            {
                 "id": 11,
                 "name": "Hangar pour avions bombardiers eau",
                 "cost": 1000000,
                 "duration": 7
             },
-              {
+            {
                 "id": 12,
                 "name": "Hangar pour avions bombardiers eau",
                 "cost": 1000000,
                 "duration": 7
             },
-              {
+            {
                 "id": 13,
                 "name": "Hangar pour avions bombardiers eau",
                 "cost": 1000000,
@@ -511,5 +511,4 @@
                 "duration": 7
             }
         ]
-    }
-]
+  
