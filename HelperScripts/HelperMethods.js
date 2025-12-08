@@ -6,9 +6,9 @@ function createOrAssigneDropdownmenu(entryId, text, functionToRun){
 
             newWindow.innerHTML = `
                        <a href="#" id="skripte_profile" role="button" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">
-                         <span>Lalain</span>
+                         <span>Cliquer ici pour activer le script</span>
                          <span class="visible-xs">
-                           Lalain
+                           Cliquer ici pour activer le script
                          </span>
                          <b class="caret"></b>
                        </a>
