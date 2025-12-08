@@ -557,6 +557,23 @@
         ]
     },
     {
+        "id": 31,
+        "name": "Gendarmerie haute montagne",
+        "class": [
+            "MOUNTAIN_RESCUE_HELIPORT"
+        ],
+        "class_alias": [],
+        "max_level": 2,
+        "extensions": [
+            {
+                "id": 0,
+                "name": "Peloton de DAG - Drone",
+                "cost": 200000,
+                "duration": 5
+            }
+        ]
+    },
+    {
         "id": 29,
         "name": "",
         "class": [],
