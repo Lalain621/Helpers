@@ -1,7 +1,7 @@
 [
     {
         "id": 0,
-        "name": "Centre d'incendie et de secours - CIS",
+        "name": "Centre de secours",
         "class": [
             "fire_stations"
         ],
@@ -233,7 +233,7 @@
     },
     {
         "id": 11,
-        "name": "CRS  Maintien de l'ordre",
+        "name": "CRS",
         "class": [
             "bereitschaftspolizei"
         ],
@@ -244,25 +244,25 @@
         "extensions": [
             {
                 "id": 0,
-                "name": "Section des Moyens Spécialisés n°1",
+                "name": "Section des Moyens Spécialisés 1",
                 "cost": 25000,
                 "duration": 3
             },
             {
                 "id": 1,
-                "name": "Section des Moyens Spécialisés n°2",
+                "name": "Section des Moyens Spécialisés 2",
                 "cost": 25000,
                 "duration": 3
             },
             {
                 "id": 2,
-                "name": "Section Appui et de Manoeuvre n°2",
+                "name": "Section Appui et de Manoeuvre 2",
                 "cost": 25000,
                 "duration": 3
             },
             {
                 "id": 3,
-                "name": "Section de Protection et Intervention n°2",
+                "name": "Section de Protection et Intervention 2",
                 "cost": 25000,
                 "duration": 7
             },
@@ -282,7 +282,7 @@
     },
     {
         "id": 18,
-        "name": "Centre de premiere intervention (CPI)",
+        "name": "Centre de premiere intervention",
         "class": [
             "fire_stations"
         ],
@@ -325,7 +325,7 @@
     },
     {
         "id": 19,
-        "name": "Poste de police (Petit)",
+        "name": "Poste de police Petit",
         "class": [
             "police_stations"
         ],
@@ -409,12 +409,12 @@
     },
     {
         "id": 26,
-        "name": "Base sécurité civile",
+        "name": "Heliport dragon",
         "class": [
             "WATER_RESCUE_HELIPORT"
         ],
         "class_alias": [
-            "Centre de formation et d'intervention"
+            "Centre de formation et intervention"
         ],
         "max_level": 15,
         "extensions": [
