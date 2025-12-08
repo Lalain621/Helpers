@@ -534,6 +534,29 @@
         ]
     },
     {
+        "id": 30,
+        "name": "Gendarmerie de haute montagne",
+        "class": [
+            "MOUNTAIN_RESCUE"
+        ],
+        "class_alias": [],
+        "max_level": 12,
+        "extensions": [
+            {
+                "id": 0,
+                "name": "QUAD haute montagne",
+                "cost": 200000,
+                "duration": 5
+            },
+            {
+                "id": 1,
+                "name": "Chiens de sauvetage (PGHM)",
+                "cost": 200000,
+                "duration": 5
+            }
+        ]
+    },
+    {
         "id": 28,
         "name": "",
         "class": [],
