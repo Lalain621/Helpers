@@ -507,7 +507,16 @@
                 "name": "Hangar pour avions bombardiers eau",
                 "cost": 1000000,
                 "duration": 7
-         ]
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "",
+        "class": [],
+        "class_alias": [],
+        "max_level": 1,
+        "extensions": []
     }
 ]
   
