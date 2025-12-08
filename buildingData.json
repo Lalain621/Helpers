@@ -535,7 +535,7 @@
     },
     {
         "id": 30,
-        "name": "Gendarmerie de haute montagne",
+        "name": "PGHM",
         "class": [
             "MOUNTAIN_RESCUE"
         ],
@@ -557,7 +557,7 @@
         ]
     },
     {
-        "id": 28,
+        "id": 29,
         "name": "",
         "class": [],
         "class_alias": [],
