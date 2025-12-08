@@ -141,33 +141,6 @@
         ]
     },
     {
-        "id": 3,
-        "name": "Rettungsdienstschule",
-        "class": [],
-        "class_alias": [],
-        "max_level": 3,
-        "extensions": [
-            {
-                "id": 0,
-                "name": "Weiterer Klassenraum",
-                "cost": 400000,
-                "duration": 7
-            },
-            {
-                "id": 1,
-                "name": "Weiterer Klassenraum",
-                "cost": 400000,
-                "duration": 7
-            },
-            {
-                "id": 2,
-                "name": "Weiterer Klassenraum",
-                "cost": 400000,
-                "duration": 7
-            }
-        ]
-    },
-    {
         "id": 4,
         "name": "Krankenhaus",
         "class": [],
@@ -232,98 +205,92 @@
     },
     {
         "id": 6,
-        "name": "Polizeiwache",
+        "name": "Poste de police",
         "class": [
             "police_stations"
         ],
         "class_alias": [
-            "Polizeiwachen"
+            "Ecole de police"
         ],
         "max_level": 14,
         "extensions": [
             {
                 "id": 0,
-                "name": "Zelle",
+                "name": "Cellule de prison",
                 "cost": 25000,
                 "duration": 7
             },
             {
                 "id": 1,
-                "name": "Zelle",
+                "name": "Cellule de prison",
                 "cost": 25000,
                 "duration": 7
             },
             {
                 "id": 2,
-                "name": "Zelle",
+                "name": "Cellule de prison",
                 "cost": 25000,
                 "duration": 7
             },
             {
                 "id": 3,
-                "name": "Zelle",
+                "name": "Cellule de prison",
                 "cost": 25000,
                 "duration": 7
             },
             {
                 "id": 4,
-                "name": "Zelle",
+                "name": "Cellule de prison",
                 "cost": 25000,
                 "duration": 7
             },
             {
                 "id": 5,
-                "name": "Zelle",
+                "name": "Cellule de prison",
                 "cost": 25000,
                 "duration": 7
             },
             {
                 "id": 6,
-                "name": "Zelle",
+                "name": "Cellule de prison",
                 "cost": 25000,
                 "duration": 7
             },
             {
                 "id": 7,
-                "name": "Zelle",
+                "name": "Cellule de prison",
                 "cost": 25000,
                 "duration": 7
             },
             {
                 "id": 8,
-                "name": "Zelle",
+                "name": "Cellule de prison",
                 "cost": 25000,
                 "duration": 7
             },
             {
                 "id": 9,
-                "name": "Zelle",
+                "name": "Cellule de prison",
                 "cost": 25000,
                 "duration": 7
             },
             {
                 "id": 10,
-                "name": "Diensthundestaffel",
+                "name": "Grand poste de police",
                 "cost": 100000,
                 "duration": 5
             },
             {
                 "id": 11,
-                "name": "Kriminalpolizei-Erweiterung",
+                "name": "Grande prison",
                 "cost": 100000,
                 "duration": 7
             },
             {
                 "id": 12,
-                "name": "Dienstgruppenleitung-Erweiterung",
+                "name": "Unités enquête criminelle",
                 "cost": 200000,
                 "duration": 7
-            },
-            {
-                "id": 13,
-                "name": "Motorradstaffel",
-                "cost": 75000,
-                "duration": 2
             }
         ]
     },
