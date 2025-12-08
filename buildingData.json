@@ -407,7 +407,7 @@
             }
         ]
     },
-     {
+    {
         "id": 26,
         "name": "Base sécurité civile",
         "class": [
@@ -507,6 +507,7 @@
                 "name": "Hangar pour avions bombardiers eau",
                 "cost": 1000000,
                 "duration": 7
-            }
-        ]
+         ]
+    }
+]
   
