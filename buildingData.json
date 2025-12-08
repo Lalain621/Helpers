@@ -535,7 +535,7 @@
     },
     {
         "id": 30,
-        "name": "PGHM",
+        "name": "Gendarmerie haute montagne",
         "class": [
             "MOUNTAIN_RESCUE"
         ],
@@ -551,7 +551,7 @@
             {
                 "id": 1,
                 "name": "Chiens de sauvetage (PGHM)",
-                "cost": 200000,
+                "cost": 350000,
                 "duration": 5
             }
         ]
