@@ -122,43 +122,23 @@
         ]
     },
     {
-        "id": 1,
-        "name": "Feuerwehrschule",
-        "class": [],
-        "class_alias": [],
-        "max_level": 3,
-        "extensions": [
-            {
-                "id": 0,
-                "name": "Weiterer Klassenraum",
-                "cost": 400000,
-                "duration": 7
-            },
-            {
-                "id": 1,
-                "name": "Weiterer Klassenraum",
-                "cost": 400000,
-                "duration": 7
-            },
-            {
-                "id": 2,
-                "name": "Weiterer Klassenraum",
-                "cost": 400000,
-                "duration": 7
-            }
-        ]
-    },
-    {
         "id": 2,
-        "name": "Rettungswache",
+        "name": "Poste ambulanciers",
         "class": [
             "rescue_stations"
         ],
         "class_alias": [
-            "Rettungswachen"
+            "Ecole de medecine"
         ],
         "max_level": 14,
-        "extensions": []
+        "extensions": [
+            {
+                "id": 0,
+                "name": "Grande station d'ambulance",
+                "cost": 1000000,
+                "duration": 7
+            }
+        ]
     },
     {
         "id": 3,
