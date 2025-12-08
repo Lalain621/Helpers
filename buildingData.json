@@ -512,6 +512,29 @@
     },
     {
         "id": 28,
+        "name": "GIGN",
+        "class": [
+            "SWAT"
+        ],
+        "class_alias": [],
+        "max_level": 9,
+        "extensions": [
+            {
+                "id": 0,
+                "name": "Équipements d'assaut",
+                "cost": 200000,
+                "duration": 5
+            },
+            {
+                "id": 1,
+                "name": "Négociateur",
+                "cost": 200000,
+                "duration": 5
+            }
+        ]
+    },
+    {
+        "id": 28,
         "name": "",
         "class": [],
         "class_alias": [],
