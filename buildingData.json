@@ -235,12 +235,10 @@
         "id": 11,
         "name": "CRS - Maintien de l'ordre",
         "class": [
-            "bereitschaftspolizei",
-           
+            "bereitschaftspolizei"
         ],
         "class_alias": [
-            "Ecole de police",
-    
+            "Ecole de police"
         ],
         "max_level": 0,
         "extensions": [
