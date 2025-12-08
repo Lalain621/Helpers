@@ -233,14 +233,14 @@
     },
     {
         "id": 11,
-        "name": "CRS - Maintien de l'ordre",
+        "name": "CRS  Maintien de l'ordre",
         "class": [
             "bereitschaftspolizei"
         ],
         "class_alias": [
             "Ecole de police"
         ],
-        "max_level": 0,
+        "max_level": 31,
         "extensions": [
             {
                 "id": 0,
@@ -268,7 +268,7 @@
             },
             {
                 "id": 4,
-                "name": "Surveillance de plage'",
+                "name": "Surveillance de plage",
                 "cost": 100000,
                 "duration": 7
             },
